@@ -11,7 +11,7 @@ nav{
 }
 
 body{
-    background-image: url(/assets/images/jehbCar.png);
+    background-image: url("../images/jehbCar.png");
     background-attachment: fixed;
     overflow: auto;
     background-position: center;
